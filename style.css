@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.timer{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    height: auto;
+
+}
+
+
+.value{
+justify-content: center;
+align-items: center;
+width: 100px;
+height: 150px;
+background-color: black;
+border-radius: 6px;
+font-size: 65px;
+display: flex;
+color: white;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
